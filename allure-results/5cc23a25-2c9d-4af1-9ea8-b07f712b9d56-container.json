@@ -1,0 +1,1 @@
+{"uuid":"5cc23a25-2c9d-4af1-9ea8-b07f712b9d56","name":"Scenario: Valid Login","children":["9db23af8-b808-41ce-a791-c70f3f0a6981"],"befores":[{"name":"stepdefinitions.Hooks.setUp()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1744427870129,"stop":1744427875303}],"afters":[],"start":1744427870128,"stop":1744427884775}
